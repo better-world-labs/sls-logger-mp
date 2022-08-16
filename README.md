@@ -1,7 +1,7 @@
 <!--
  * @Author: Sandy
  * @Date: 2022-08-16 10:54:40
- * @LastEditTime: 2022-08-16 13:22:18
+ * @LastEditTime: 2022-08-16 16:18:16
  * @Description: 
 -->
 # SLS WebTracking uni-Mp SDK
@@ -31,6 +31,12 @@ sls-logger-mp 支持uni开发的小程序端，包括：
 QQ 小程序、QQ 小游戏
 
 百度小程序
+
+## 仓库地址    
+- GitHub:  https://github.com/better-world-labs/sls-logger-mp       
+- GitLab:  https://gitlab.openviewtech.com/ade/sls-logger-mp          
+- [npm包使用和兼容相关](https://www.npmjs.com/package/sls-logger-mp
+)      
 
 ## 注意事项
 
@@ -122,7 +128,8 @@ tracker.send({
   data: {} 
 })
 ```
-
+     
+            
 -------   
 > 废弃方法    
 

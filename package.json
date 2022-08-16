@@ -1,8 +1,9 @@
 {
     "name": "sls-logger-mp",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "阿里云日志直传小程序版sdk包",
     "main": "sls-logger/index.js",
+    "repository": "https://github.com/better-world-labs/sls-logger-mp",
     "typings": "index.d.ts",
     "scripts": {
         "test": "jest",
