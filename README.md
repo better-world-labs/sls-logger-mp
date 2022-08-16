@@ -1,7 +1,7 @@
 <!--
  * @Author: Sandy
  * @Date: 2022-08-16 10:54:40
- * @LastEditTime: 2022-08-16 16:18:16
+ * @LastEditTime: 2022-08-16 16:41:34
  * @Description: 
 -->
 # SLS WebTracking uni-Mp SDK
@@ -33,8 +33,7 @@ QQ 小程序、QQ 小游戏
 百度小程序
 
 ## 仓库地址    
-- GitHub:  https://github.com/better-world-labs/sls-logger-mp       
-- GitLab:  https://gitlab.openviewtech.com/ade/sls-logger-mp          
+- GitHub:  https://github.com/better-world-labs/sls-logger-mp         
 - [npm包使用和兼容相关](https://www.npmjs.com/package/sls-logger-mp
 )      
 
